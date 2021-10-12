@@ -1,4 +1,4 @@
-## Problem 2 (technique: )
+## Problem 2 (technique: eclectic)
 
 So, for this problem, you're given the following sequence, which is a number written in Roman numerals: XVVVVII
 
