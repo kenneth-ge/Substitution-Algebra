@@ -7,7 +7,9 @@ Just a quick refresher on Roman numerals: each letter has a specific value, and 
 Your task is to use the following substitutions to get the smallest number you can get strictly greater than 50. So, for example, a value of 49 or 50 would not work, but 51 and 90 would both work. 
 
 Substitutions:
+
 X -> I
+
 V <-> X
 
 ## Solution
