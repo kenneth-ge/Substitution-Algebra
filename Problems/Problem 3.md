@@ -1,4 +1,4 @@
-## Problem 3 (technique: notice the pattern)
+## Problem 3 (technique: what is the function?)
 
 You’re given the sequence of letters AAAAAAAAAABBAAAAAAAAAA. At any point in time, you can swap BBA for ABB or vice versa. If you have to do exactly 4 of these swaps, how many distinct sequences of letters can you end up with?
 
