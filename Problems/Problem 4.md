@@ -1,6 +1,6 @@
 ## Problem 4 (technique: what must happen? what cannot happen?)
 
-S = ABLCDLCDLE
+S = ABLCDLCDLCDLE
 
 T = {
   BL <-> DL
@@ -10,4 +10,4 @@ How many combinations are there such that all of the letters (excluding L) are o
 
 ## Solution
 
-Answer: 2; the first letter has to be a B, and the second letter can be a B or a D. The third letter has to be a D, because otherwise B is three letters away from E, so it wouldn't work. 
+Answer: 4; the first letter has to be a B, and the second and third letters can be a B or a D. The fourth letter has to be a D, because otherwise B is three letters away from E, so it wouldn't work. 
