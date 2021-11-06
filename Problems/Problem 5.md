@@ -2,10 +2,10 @@
 
 Many words in the English language often take the form of a prefix, a base word, and a suffix. For example, "redistricting" can be broken up into "re-," "district," and "-ing." In substitution algebra, you can express a word of this form as ABC, where A represents the prefix, B represents the base word, and C represents the suffix. 
 
-# Part A: 
+### Part A: 
 Given the base word "K," and prefixes A through J and suffixes L through Z, how many possibilities are there?
 
-# Part B: 
+### Part B: 
 Choose a base word of your own, then come up with a list of prefixes and suffixes (these don't have to make sense! For example, "preselfieify" and "literaturally" both work!). Then, list out a set of transformations to get you there, starting with the structure we used above of ABC. 
 
 ## Solution
