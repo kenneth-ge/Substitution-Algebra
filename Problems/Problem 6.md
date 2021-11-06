@@ -18,9 +18,11 @@ In order to solve this problem, we need to somehow isolate one of the top two eq
 
 We can transform this problem into a system of linear equations. Although many of the rules of algebra (e.g. cancelling terms out)  are technically not allowed under substitution algebra, they allow us to get a "substition-algebraically correct" answer. Let's try to "substitute away" the As in the second equation by substituting in the first equation. 
 
-Doing so, we get B21C = 24C. Then, we can cancel out the 21 Cs on both sides, getting B = 3C. 
+Doing so, we get B21C = 24C. Then, we can "cancel out" the 21 Cs on both sides, getting B = 3C. 
 
 We can then substitute in B = 3C in the first equation, giving us A = 1C. 
+
+So, our values for X and Y are *X* = 1 and *Y* = 3. 
 
 Substituting these numbers back into the first two equations, we see that these values check out!
 
