@@ -1,4 +1,4 @@
-## Problem 4 (technique: what must happen? what cannot happen?)
+## Problem 5 (technique: what must happen? what cannot happen?)
 
 Many words in the English language often take the form of a prefix, a base word, and a suffix. For example, "redistricting" can be broken up into "re-," "district," and "-ing." In substitution algebra, you can express a word of this form as ABC, where A represents the prefix, B represents the base word, and C represents the suffix. 
 
