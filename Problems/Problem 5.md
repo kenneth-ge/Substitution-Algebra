@@ -20,12 +20,21 @@ Answer to part A: A - J gives us 10 prefixes, and L - Z gives us 15 suffixes. So
 Answer to part B: An example is the following:
 
 S = {
+
 A = ""
+
 B = "literature" (drop the "e" at the end if appropriate)
+
 C = ""
+
 }
 
+
+
 T = {
+
   A <-> "pre" <-> "re" <-> "post"
+  
   C <-> "ally" <-> "ify"
+  
 }
