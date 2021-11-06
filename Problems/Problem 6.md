@@ -1,10 +1,15 @@
 ## Problem 4 (technique: have you done a problem like this before? Try everything!)
 Given the following substitutions:
   ABB = 7C
+  
   3A7B = 24C
+  
   AB = BA
+  
   AC = CA
+  
   BC = CB
+  
 
 Find A and B in terms of C. I.e. you should get an answer in the form of A = 10C, B = 40C. 
 
