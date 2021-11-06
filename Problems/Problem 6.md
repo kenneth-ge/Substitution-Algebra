@@ -1,4 +1,4 @@
-## Problem 4 (technique: have you done a problem like this before? Try everything!)
+## Problem 6 (technique: have you done a problem like this before? Try everything!)
 Given the following substitutions:
 
   ABB = 7C
