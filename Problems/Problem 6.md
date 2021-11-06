@@ -16,7 +16,7 @@ Find a possible set of values for X and Y that makes the first two substitutions
 
 In order to solve this problem, we need to somehow isolate one of the top two equations so that we only have As and Cs, but no Bs (or Bs and Cs, but no As). 
 
-We can transform this problem into a system of linear equations. Although many of the rules of algebra (e.g. cancelling terms out)  are technically not allowed under substitution algebra, they allow us to get a "substitional-algebraically correct" answer. Let's try to "substitute away" the As in the second equation by substituting in the first equation. 
+We can transform this problem into a system of linear equations. Although many of the rules of algebra (e.g. cancelling terms out)  are technically not allowed under substitution algebra, they allow us to get a "substition-algebraically correct" answer. Let's try to "substitute away" the As in the second equation by substituting in the first equation. 
 
 Doing so, we get B21C = 24C. Then, we can cancel out the 21 Cs on both sides, getting B = 3C. 
 
