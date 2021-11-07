@@ -6,7 +6,7 @@ T = {
   BL <-> DL
 }
 
-How many combinations are there such that all of the letters (excluding all the Ls) are one away from each other (contiguous, connected) in the alphabet? E.g. B is one away from A and C
+How many possibilities for S are there such that all of the letters (excluding all the Ls) are one away from each other (contiguous, connected) in the alphabet? E.g. B is one away from A and C
 
 ## Solution
 
