@@ -1,4 +1,4 @@
-## Problem 8 (technique: try it!)
+## Problem 8 (technique: play around with it!)
 
 Given the substitutions:
 
