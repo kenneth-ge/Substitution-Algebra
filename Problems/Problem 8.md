@@ -1,4 +1,4 @@
-## Problem 8 (technique: what is the function? what's optimal?)
+## Problem 8 (technique: try it!)
 
 Given the substitutions:
 
