@@ -23,7 +23,7 @@ L -> wall
 
 A -> thing that can move between walls
 
-B -> thing that it stuck between walls
+B -> thing that is stuck between walls
 
 C -> wild card
 
