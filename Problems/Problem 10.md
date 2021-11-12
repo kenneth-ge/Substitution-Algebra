@@ -1,12 +1,12 @@
 ## Problem 10 (technique: tbd)
 
-Plan: boxes, use repeating sequences rather than repeated letters and introduce prime numbers & gcf
+You're given the layout of a bunch of rooms, each of which has a wall (L), an empty space (E), and a desk (D). If each room must have at least one empty space, how many different ways are there to lay these rooms out?
 
-S = 7(LAD)
+S = 7(LED)
 
-T = 
-
-What is the shortest length sequence of As you can get?
+Substitution: E <-> D
 
 ## Solution
+Within each room, we can have 3 different possibilities: EE, ED, and DE. 
 
+So, our answer is 3^7. 
