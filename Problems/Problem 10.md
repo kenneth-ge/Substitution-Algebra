@@ -4,5 +4,9 @@ Plan: boxes, use repeating sequences rather than repeated letters and introduce 
 
 S = 7(LAD)
 
+T = 
+
+What is the shortest length sequence of As you can get?
+
 ## Solution
 
