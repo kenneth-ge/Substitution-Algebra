@@ -17,13 +17,13 @@ BBBBBBBBBB
 
 Then, these substitutions basically become:
 
-  ABA = CBC replaces two consecutive As with Cs
+* ABA = CBC replaces two consecutive As with Cs
   
-  BAB = DAD replaces two consecutive Bs with Ds
+* BAB = DAD replaces two consecutive Bs with Ds
   
-  AB = EE replaces two letters that are together vertically with Es. 
+* AB = EE replaces two letters that are together vertically with Es. 
   
-  ADA = CDC and BCB = DCD just work as helper substitutions in conjunction with the top 2. 
+* ADA = CDC and BCB = DCD just work as helper substitutions in conjunction with the top 2. 
   
 Essentially, our goal is to place as many 2x1 pieces on top of a board as possible such we have as diverse of a selection of different orientations of these pieces as possible. 
 
