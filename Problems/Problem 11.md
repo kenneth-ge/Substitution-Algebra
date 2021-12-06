@@ -2,7 +2,7 @@
 
 You're given a sequence S = 10(AB), and the substitutions ABA = CBC, ADA = CDC, BAB = DAD, BCB = DCD, and AB = EE. 
 
-Your goal is to use these substitutions to get rid of all the As and Bs on the board. Then, once those are all gone, you are to count the number of Cs, Ds, and Es that are left over. Maximize the product of these three counts. 
+Your goal is to use these substitutions to get rid of all the As and Bs on the board by replacing them with C, D, and E. Then, once those are all gone, you are to count the number of Cs, Ds, and Es that are left over. Maximize the product of these three counts. 
 
 ## Solution
 We can visualize this as a set of two rows, the top row being 10 As and the bottom row being 10 Bs. 
