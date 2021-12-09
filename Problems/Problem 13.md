@@ -10,7 +10,7 @@ Part A: Come up with a sytsem of counting that allows you to count to at least 1
   
 Part B: What if we wanted to count to 50? 100? Does your answer change?
 
-For clarification, counting to 15 means you can start at 1, then use some kind of a rule or formula (e.g. A = 1) such that you have a sequence that corresponds to each number between 1 and 15. You are allowed to have multiple sequences can correspond to the same number. 
+For clarification, counting to 15 means you can start at 1, then use some kind of a rule or formula (e.g. A = 1) such that you have a sequence that corresponds to each number between 1 and 15. You are allowed to have multiple sequences that correspond to the same number. 
 
 ## Solution
 
