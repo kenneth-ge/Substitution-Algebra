@@ -10,11 +10,11 @@ Part A: Come up with a sytsem of counting that allows you to count to at least 1
   
 Part B: What if we wanted to count to 50? 100? Does your answer change?
 
-For clarification, counting to 15 means you can start at 1, then use some kind of a rule or formula (e.g. A = 1) such that you have a sequence that corresponds to each number between 1 and 15. You are allowed to have multiple sequences that correspond to the same number. 
+For clarification, counting to 14 means you can start at 1, then use some kind of a rule or formula (e.g. A = 1) such that you have a sequence that corresponds to each number between 1 and 14. You are allowed to have multiple sequences that correspond to the same number. 
 
 ## Solution
 
-For 15, we could pretty easily use a Roman numeral-type system. For example, we can create a system where A represents 0, B represents 1, and C represents 4. That way, we have:
+For 14, we could pretty easily use a Roman numeral-type system. For example, we can create a system where A represents 0, B represents 1, and C represents 4. That way, we have:
 
 | Number      | Numerals    |
 | ----------- | ----------- |
@@ -33,7 +33,7 @@ For 15, we could pretty easily use a Roman numeral-type system. For example, we 
 | 13          | ABCCC       |
 | 14          | BBCCC       |
 
-To find others, feel free to experiment!
+To find other possible Roman numeral arrangements, feel free to experiment!
 
 For larger numbers, we can actually turn these letters into digits, where A = 0, B = 1, and C = 2. That way, AAAAA = 00000, AAAAB = 00001, etc. 
 
