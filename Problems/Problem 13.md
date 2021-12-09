@@ -1,4 +1,4 @@
-## Problem 13 (technique: )
+## Problem 13 (technique: experiment)
 
 Given just the following substitution:
   
