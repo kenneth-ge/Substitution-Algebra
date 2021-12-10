@@ -1,6 +1,6 @@
 ## Problem 14 (technique: invariants, conservation)
 
-Given S = AAAAA, and the substitutions A = B = C, come up with a Roman numeral-style system that maximizes your total range. A Roman-numeral-style system means each letter has a whole number value >= 0, e.g. A = 1, B = 6, C = 10, and you can obtain the total value of the set of numerals by adding up the individual values of each one. A Roman numeral system has a "range" of x if it can be used to represent all integer numbers from 1 up to and including x. Also, note that you must have exactly 5 numerals. 
+Given S = AAAAA, and the substitutions A = B = C, come up with a Roman numeral-style system that maximizes your total range. A Roman-numeral-style system means each letter has a whole number value >= 0, e.g. A = 1, B = 6, C = 10, and you can obtain the total value of a set of numerals by adding up the individual values of each one. A Roman numeral system has a "range" of x if it can be used to represent all integer numbers from 1 up to and including x. Also, note that you must have exactly 5 numerals. 
 
 Prove that your answer is optimal. 
 
