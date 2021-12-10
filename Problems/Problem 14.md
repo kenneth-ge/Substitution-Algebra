@@ -53,6 +53,6 @@ But can we do better? Let's think about this. In essence, our maximum value come
 
 Generalizing this conclusion, if C has a value of X, our maximum range is 1 * (C - 2) + C * (7 - C). This is because we have C - 2 total Bs, and the rest of the 7 - C letters are all Cs. (Side note: we got 7 - C by taking our 5 total letters and subtracting off the C - 2 "empty spaces," giving us 5 - (C - 2) = 7 - C). 
 
-So, let's maximize our equation: C - 2 + 7C - C^2 = -C^2 + 8C - 2. Since we can't use any C values 7 or above (prove this to yourself), we just need to plug in C values that range from 2 to 6. 
+So, let's maximize our equation: C - 2 + 7C - C^2 = -C^2 + 8C - 2. Since we can't use any C values 7 or above (prove this to yourself), we just need to plug in C values that range from 2 to 6. Alternatively, we could use calculus to maximize this equation. 
 
 Eventually, we get our answer, which is C = 4, giving us a total range of -16 + 32 - 2 = 14. 
