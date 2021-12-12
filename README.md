@@ -5,7 +5,7 @@ This repository contains the PDF of our 25-page textbook for Substitution Algebr
 
 To purchase a physical copy, please head over to Amazon: https://www.amazon.com/Substitution-Algebra-exercise-problem-solving-branch/dp/B09DMTVJHH/ref=sr_1_2?keywords=substitution+algebra&qid=1639108721&sr=8-2
 
-Also, if you'd like to add extra questions to this bank, please feel free to make a pull request!
+Also, if you'd like to add extra questions to this bank, please feel free to make a pull request! Our goal is to have 50 questions by the end of 2021.
 
 Credits: Kenny Ge, Michael Roehrl, Alisa Harrison
 
