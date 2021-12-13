@@ -8,7 +8,7 @@ Prove that your answer is optimal.
 
 To start off, let's organize our thinking by making our lowest value numeral A, our second-lowest B, and our greatest C. 
 
-Our first important observation is that there are exactly five numerals in our number. This means our lowest possible answer is 5 * A. An initial observation might be to make A = 1. However, our minimum value then becomes 5 * A = 5. So, because of this, A has to be equal to zero. 
+Our first important observation is that there are exactly five numerals in our number. This means our lowest possible answer is 5 * A. An initial thought might be to make A = 1. However, our minimum value then becomes 5 * A = 5. So, because of this, A has to be equal to zero. 
 
 Now that we can represent zero, we then need to be able to represent 1, 2, 3... If we choose a large number for B, e.g. B = 50, then clearly, there's no way to flil in the gaps between 0 and 50 because we don't have anything lower. Even if we chose B = 2, we still wouldn't able to obtain a value of 1, since the second-lowest possible value is then AAAAB = 2. So, B has to be equal to 1. 
 
