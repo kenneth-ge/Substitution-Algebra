@@ -49,9 +49,9 @@ Notice that the C basically takes the place of 2 Bs, since C has the same value 
 
 Whoops! We ran out of space! In order to get from 13 to 14, we need to incorporate one extra B. There's no other way to do it because we're already packing all the Cs that we can into the sequence. However, we can't pack an extra B, because we only have 5 letters total. So, our total range is 13. 
 
-But can we do better? Let's think about this. In essence, our maximum value comes about when we run out of space. In this case, we needed to have at least 4 "empty" spaces, since C has a value of 5. However, we only had 3. 
+But can we do better? Let's think about this. In essence, our maximum value comes about when we run out of space. In this case, we needed to have at least 4 "empty" spaces, since C has a value of 5. However, we only had 3 = (C - 2). 
 
-Generalizing this conclusion, our maximum range is 1 * (C - 2) + C * (7 - C). This is because we have C - 2 total Bs, and the rest of the 7 - C letters are all Cs. (Side note: we got 7 - C by taking our 5 total letters and subtracting off the C - 2 "empty spaces," giving us 5 - (C - 2) = 7 - C). 
+Generalizing this conclusion, our maximum range is 1 * (C - 2) + C * (7 - C). This is because we stop counting when we have C - 2 total Bs, and the rest of the \{5 - (C - 2)\] = (7 - C) letters are all Cs. 
 
 So, let's maximize our equation: C - 2 + 7C - C^2 = -C^2 + 8C - 2. Since we can't use any C values 7 or above (prove this to yourself), we just need to plug in C values that range from 2 to 6. Alternatively, we could use calculus to maximize this equation. 
 
