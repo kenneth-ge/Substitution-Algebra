@@ -51,7 +51,7 @@ Whoops! We ran out of space! In order to get from 13 to 14, we need to incorpora
 
 But can we do better? Let's think about this. In essence, our maximum value comes about when we run out of space. In this case, we needed to have at least 4 "empty" spaces, since C has a value of 5. However, we only had 3 = (C - 2). 
 
-Generalizing this conclusion, our maximum range is 1 * (C - 2) + C * (7 - C). This is because we stop counting when we have C - 2 total Bs, and the rest of the \{5 - (C - 2)\] = (7 - C) letters are all Cs. 
+Generalizing this conclusion, our maximum range is 1 * (C - 2) + C * (7 - C). This is because we stop counting when we have C - 2 total Bs, and the rest of the \[5 - (C - 2)\] = (7 - C) letters are all Cs. 
 
 So, let's maximize our equation: C - 2 + 7C - C^2 = -C^2 + 8C - 2. Since we can't use any C values 7 or above (prove this to yourself), we just need to plug in C values that range from 2 to 6. Alternatively, we could use calculus to maximize this equation. 
 
