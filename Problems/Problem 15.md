@@ -1,4 +1,4 @@
-## Problem 15 (technique: iif the obvious solution doesn't work, think outside the box)
+## Problem 15 (technique: if the obvious solution doesn't work, think outside the box)
 
 How do you calculate a 1 in 5 probability using only coin flips?
 
